@@ -8,7 +8,7 @@ int main()
 
    bool c = (age>=18);
    cout<<c;
-    
+ //ok
     return 0;
 }
-abc _ tuanngu
+
